@@ -1,0 +1,6 @@
+selenium ==4.21.0
+gradio>=3.40.1
+transformers
+tensorflow==2.10.0
+beautifulsoup4
+requests
